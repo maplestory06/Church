@@ -1,5 +1,5 @@
-# Church
-Church app on App Store
+# Church Community
+Church Community app on App Store
 
 ## Privacy Policy
 Yue Shen built the Church app as a Free app. This SERVICE is provided by Yue Shen at no cost and is intended for use as is.
